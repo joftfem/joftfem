@@ -43,4 +43,4 @@ I audited row-level security on my own platform and found 4 policies that let an
 - [ai-video-renderer](https://github.com/joftfem/ai-video-renderer): an automated content pipeline built on Dockerized n8n, Google Cloud (Functions, Pub/Sub, Secret Manager, Storage) and AI APIs
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/stackweavercloudsolutions) · [stackweaver.cloud](https://stackweaver.cloud)
+[LinkedIn](https://www.linkedin.com/in/femi-ofobutu) · [stackweaver.cloud](https://stackweaver.cloud)
