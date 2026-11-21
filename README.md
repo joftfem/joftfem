@@ -10,7 +10,7 @@ I design and ship products that turn compliance frameworks into automated, audit
 
 **[StackWeaver](https://stackweaver.cloud)**: trust infrastructure for regulated fintechs
 - Compliance automation covering SOC 2, PCI DSS 4.0, ISO 27001, NDPA 2023 and CBN AML/CFT
-- 11 production n8n workflows, including evidence generation, regulatory news triggers and HMAC-verified payment onboarding
+- 9 orchestration workflows and 12 AI agents, including evidence generation, regulatory news triggers and HMAC-verified payment onboarding, with a human verification layer for final decisions
 - Supabase with tenant-isolated row-level security, plus a self-hosted AI layer (LangGraph, LiteLLM, Qdrant)
 - Disposable infrastructure across GCP, Oracle Cloud and Vultr: durable state lives in GitHub, Supabase and Qdrant, and any VM can be rebuilt in under 30 minutes
 
